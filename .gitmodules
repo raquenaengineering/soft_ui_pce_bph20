@@ -1,0 +1,3 @@
+[submodule "soft_lib_pce_bph20"]
+	path = soft_lib_pce_bph20
+	url = https://github.com/raquenaengineering/soft_lib_pce_bph20.git
